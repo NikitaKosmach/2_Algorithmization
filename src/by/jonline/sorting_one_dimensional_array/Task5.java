@@ -1,7 +1,6 @@
 package by.jonline.sorting_one_dimensional_array;
 
 import java.util.Arrays;
-
 import by.jonline.one_dimensional_array.array_manipulation.ArrayFilling;
 
 public class Task5 {
